@@ -38,6 +38,14 @@
 </div>
 
 <h4>🚀Other imporatant stuff...<h4>
+  
+  Here are some of my older projects:
+
+●My personal website  :) - https://juliadavydenko.github.io/services/
+●Page about making our experience on this Planet better :)  - https://juliadavydenko.github.io/happyplanet/
+●An experimental version of the previous webpage, with different intentions:
+https://okfinder.glitch.me/
+
 <div><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
