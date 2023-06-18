@@ -2,7 +2,7 @@
 
 <img src="https://github.com/juliadavydenko/juliadavydenko/blob/main/header.png?raw=true">
 
-🏠 I'm a web developer from 🇺🇦 and I’m now based in Aarhus, Denmark🇩🇰<br>
+🏠 I'm a web developer from 🇺🇦 currently based in Aarhus, Denmark🇩🇰<br>
 👩‍💻 I’m currently working on my NextJS Final Project for <a href="https://github.com/HackYourFuture-CPH">HackYourFuture Bootcamp</a>👩 💫
 
 
