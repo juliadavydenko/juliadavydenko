@@ -4,7 +4,6 @@
 
 🏠 I'm a web developer from 🇺🇦 currently based in Aarhus, Denmark🇩🇰<br>
 👩‍💻 I’ve just finished my NextJS Final Project for <a href="https://github.com/HackYourFuture-CPH">HackYourFuture Bootcamp</a>👩 💫
-![Codewars](https://github.r2v.ch/codewars?user=juliadavydenko&stroke=%23A78295)
 
 
   <h1>🛠  Technologies and tools</h1>
@@ -64,6 +63,9 @@ https://okfinder.glitch.me/
 - 💬 Ask me about: coding, productivity, routinery, traveling, languages, books, spirituality, nutrition and I will be happy to chat on that and much more!😀
 ##  📫 How to reach me: 
   <a href="mailto:julietta12345@yahoo.com">Send me an email</a>
+
+  ![Codewars](https://github.r2v.ch/codewars?user=juliadavydenko&stroke=pink)
+
 
   
 
