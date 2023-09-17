@@ -67,5 +67,6 @@ https://okfinder.glitch.me/
   ![Codewars](https://github.r2v.ch/codewars?user=juliadavydenko&stroke=pink)
 
 
-  
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliadavydenko)](https://github.com/juliadavydenko/github-readme-stats)
+
 
