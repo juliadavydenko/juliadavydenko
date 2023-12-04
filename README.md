@@ -3,7 +3,7 @@
 <img src="https://github.com/juliadavydenko/juliadavydenko/blob/main/header.png?raw=true">
 
 🏠 I'm a web developer from 🇺🇦 currently based in Aarhus, Denmark🇩🇰<br>
-👩‍💻 I’ve just finished my NextJS Final Project for <a href="https://github.com/HackYourFuture-CPH">HackYourFuture Bootcamp</a>👩 💫
+👩‍💻 Currently working for <a href="https:digiseg.io">Digiseg</a>👩 💫
 
 
   <h1>🛠  Technologies and tools</h1>
