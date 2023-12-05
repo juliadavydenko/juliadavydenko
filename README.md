@@ -2,7 +2,7 @@
 
 <img src="https://github.com/juliadavydenko/juliadavydenko/blob/main/header.png?raw=true">
 
-🏠 I'm a web developer from 🇺🇦 currently based in Aarhus, Denmark🇩🇰<br>
+🏠 I'm a web developer from 🇺🇦 currently based in Aarhus and Copenhagen, Denmark🇩🇰<br>
 👩‍💻 Currently working for <a href="https:digiseg.io">Digiseg</a>👩 💫
 
 
