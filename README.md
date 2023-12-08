@@ -63,7 +63,7 @@ https://okfinder.glitch.me/
  
 ## 🔍  Connect with me:
   <a href="https://www.linkedin.com/in/yuliia-d-22311648/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Five cats looking around a field." alt="LinkedIn logo"/></a> <a href="https://discord.com/users/SecretSalty1729/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"/></a> 
-- 💬 Ask me about: coding, productivity, routinery, traveling, languages, books, spirituality, nutrition and I will be happy to chat on that and much more!😀
+- 💬 Ask me about: coding, productivity, routinery, traveling, languages, books, spirituality, nutrition and I will be happy to chat on that and much more!😀😀
 ##  📫 How to reach me: 
   <a href="mailto:julietta12345@yahoo.com">Send me an email</a>
 
