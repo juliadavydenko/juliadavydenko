@@ -59,7 +59,7 @@ https://okfinder.glitch.me/
 <a href="https://www.goodreads.com/review/list/166780261-julia-davydenko?shelf=currently-reading"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391976004i/18104725.jpg"
  alt="GoodReads reading" width="150" /></a>
 
-- I was thinking to write ⚡ Fun fact about me, but thought that I have a lot, they would probably go into memoir🙃
+- I was thinking to write ⚡ Fun fact about me, but thought that I have a lot, they would probably go into a memoir🙃
  
 ## 🔍  Connect with me:
   <a href="https://www.linkedin.com/in/yuliia-d-22311648/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Five cats looking around a field." alt="LinkedIn logo"/></a> <a href="https://discord.com/users/SecretSalty1729/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"/></a> 
